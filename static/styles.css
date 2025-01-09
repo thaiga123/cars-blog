@@ -1,0 +1,32 @@
+body{
+    text-align: left;
+}
+#heading{
+    background-color: orangered;
+    color: white;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px
+}
+#intro{
+    padding-left: 10px;
+    font-weight: lighter;
+    padding-bottom: 50px
+}
+img{
+    max-width: 100%;
+    height: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.header{
+    padding-left: 10px;
+    text-decoration: underline;
+}
+.paragraphs{
+    padding-left: 20px;
+    padding-right: 20px
+}
+#list-block{
+    margin-top: -5px
+}
